@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    flex-direction: row;
+    max-width: 50em;
+}
+.left-box{
+background-color:#003D73 ;
+color:white;
+height:125vh;
+min-width: 30%;
+max-width: 30%;
+padding: 1rem 0;
+font-family: sans-serif;
+}
+.right-box{
+padding-left: 1rem;
+/* padding-right: 1; */
+padding-top: 1rem;
+font-family: sans-serif;
+}
+.cont{
+    background-color: #002b51;
+          height: 3.5vh;
+          padding: 3px 1rem;
+          font-size: 1.5em;
+          font-weight: 700;
+}
+.condet{
+    border: none;
+}
